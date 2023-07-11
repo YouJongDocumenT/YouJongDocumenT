@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=radical&height=200&section=header&text=JanGYouJonG%20&fontSize=70)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangYouJonG)](https://github.com/JangYouJonG/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangYouJonG&show_icons=true&theme=radical)
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
